@@ -2,7 +2,7 @@
         width="35"></h1>
 <p align="center">
     <a href="https://github.com/MiktatCento"><img
-            src="https://readme-typing-svg.herokuapp.com?color=%23F70000&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Welcome+to+my+brain!;Flutter%2C+Python%2C+Unity%2C+C%23%2C+Arduino%2C+MySql"></a>
+            src="https://readme-typing-svg.herokuapp.com?color=%23F70000&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Welcome+to+my+brain!;ReactJS+Flutter%2C+Python%2C+Unity%2C+C%23%2C+Arduino%2C+MySql"></a>
 </p>
 
 <div align="center">
