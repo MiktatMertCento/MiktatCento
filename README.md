@@ -35,14 +35,14 @@
 
 ```C#
 static void MiktatCento()
-{
-Console.Write("Welcome to my world");
-}
+  {
+        Console.Write("Welcome to my world");
+  }
 ```
 
 **My Contributions This Year:**
 <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch-->
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗
-𝙶𝚛𝚊𝚙𝚑](https://github.com/JayantGoel001/JayantGoel001/blob/main/github-contribution-grid-snake.svg)
+𝙶𝚛𝚊𝚙𝚑](https://raw.githubusercontent.com/MiktatCento/MiktatCento/main/github-user-contribution.svg)
 <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch -->
 <br />
