@@ -35,9 +35,9 @@
 
 ```C#
 static void MiktatCento()
-  {
+{
         Console.Write("Welcome to my world");
-  }
+}
 ```
 
 **My Contributions This Year:**
