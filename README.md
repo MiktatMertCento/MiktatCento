@@ -2,7 +2,7 @@
         width="35"></h1>
 <p align="center">
     <a href="https://github.com/MiktatCento"><img
-            src="https://readme-typing-svg.herokuapp.com?color=%23F70000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Welcome+to+my+brain!;Full Stack Developer"></a>
+            src="https://readme-typing-svg.herokuapp.com?color=%23F70000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Welcome+to+my+brain!;Full%20Stack%20Developer"></a>
 </p>
 
 <div align="center">
