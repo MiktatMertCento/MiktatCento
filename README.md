@@ -1,48 +1,95 @@
-<h1 align="center">Hi , I'm Miktat Cento <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
-        width="35"></h1>
-<p align="center">
-    <a href="https://github.com/MiktatCento"><img
-            src="https://readme-typing-svg.herokuapp.com?color=%23F70000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Welcome+to+my+brain!;Full%20Stack%20Developer"></a>
-</p>
-
 <div align="center">
-    <a href="https://www.instagram.com/miktatty/" target="_blank"><img
-            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-            target="_blank"></a>
-    <a href="https://play.google.com/store/apps/dev?id=8943903208498607268" target="_blank"><img
-            src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"
-            target="_blank"></a>
-    <a href="https://tr.linkedin.com/in/miktatcento" target="_blank"><img
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            target="_blank"></a>
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
+
+### <div align="center">I'm Miktat, a full-time full-stack developer 👨‍💻</div>  
+  
+
+- 🌱 I’m currently learning and developing ReactJS & Its frameworks  
+  
+
+<br/>  
+
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+
+
+### Frontend  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" />  
 </div>
 
-<br>
-<div align="center">
-        <img height="220em"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiktatCento&layout=compact&langs_count=16&theme=react" />
+</td><td valign="top" width="33%">
+
+
+
+### Backend  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
 </div>
 
-#
-
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=MiktatCento" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •
-    <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜"
-        src="https://img.shields.io/github/followers/MiktatCento?label=Followers&style=social"> •
-    <img src="https://img.shields.io/github/stars/MiktatCento?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
-</p>
+</td><td valign="top" width="33%">
 
 
-```C#
-static void MiktatCento()
-{
-        Console.Write("Welcome to my world");
-}
-```
 
-**My Contributions This Year:**
-<!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch-->
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗
-𝙶𝚛𝚊𝚙𝚑](https://raw.githubusercontent.com/MiktatCento/MiktatCento/main/github-user-contribution.svg)
-<!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch -->
+</td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/MiktatCento" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/miktatcento" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/miktatty" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MiktatCento&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+  
+
+<br/>  
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=rzdan74tpxj4qpz6rc4n8jns4&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" /></div>  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=MiktatCento&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
+
 <br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
