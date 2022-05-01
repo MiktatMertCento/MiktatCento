@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Miktat, a full-time full-stack developer 👨‍💻</div>  
   
 
@@ -41,10 +36,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
 </div>
-
-</td><td valign="top" width="33%">
-
-
 
 </td></tr></table>  
 
