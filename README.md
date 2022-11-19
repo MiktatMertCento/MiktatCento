@@ -1,5 +1,5 @@
 ### <div align="center">I'm Miktat, a full-time full-stack developer 👨‍💻</div> 
-- 🌱 I’m currently learning and developing ReactJS & Its frameworks  
+- 🌱 I’m currently learning and developing ReactJS
 - 🌱 I also know NodeJS, Flutter, React Native and Python.
 <br/>  
 
