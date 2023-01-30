@@ -130,6 +130,13 @@
   <img
     src="https://spotify-github-profile.vercel.app/api/view?uid=rzdan74tpxj4qpz6rc4n8jns4&cover_image=true&theme=default&show_offline=false&background_color=22272e&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile"
   />
+  
+      <iframe src="https://codesandbox.io/embed/js-playground-ll8bj?fontsize=14&hidenavigation=1&theme=dark"
+     style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
+     title="JS Playground"
+     allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
+     sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
+   ></iframe>
 </div>
 
 <br />
