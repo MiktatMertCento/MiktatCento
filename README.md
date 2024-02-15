@@ -93,17 +93,17 @@
 
 ## Connect with me
 <div align="center">
-  <a href="https://github.com/MiktatCento" target="_blank">
+  <a href="https://github.com/MiktatMertCento" target="_blank">
     <img
     src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white
     alt=github style="margin-bottom: 5px;" />
   </a>
-  <a href="https://linkedin.com/in/miktatcento" target="_blank">
+  <a href="https://linkedin.com/in/miktatmertcento" target="_blank">
     <img
     src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
     alt=linkedin style="margin-bottom: 5px;" />
   </a>
-  <a href="https://instagram.com/miktatty" target="_blank">
+  <a href="https://instagram.com/miktatmertcento" target="_blank">
     <img
     src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white
     alt=instagram style="margin-bottom: 5px;" />
@@ -115,26 +115,16 @@
 ## Github Stats
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=MiktatCento&show_icons=true&count_private=true&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=MiktatMertCento&show_icons=true&count_private=true&hide_border=true"
     align="center"
   />
 </div>
 
 <br />
 
-<br />
-
 <div align="center">
   <img
-    src="https://spotify-github-profile.vercel.app/api/view?uid=rzdan74tpxj4qpz6rc4n8jns4&cover_image=true&theme=default&show_offline=false&background_color=22272e&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile"
-  />
-</div>
-
-<br />
-
-<div align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=MiktatCento&&style=flat-square"
+    src="https://komarev.com/ghpvc/?username=MiktatMertCento&&style=flat-square"
     align="center"
   />
 </div>
