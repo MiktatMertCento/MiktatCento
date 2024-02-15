@@ -1,4 +1,4 @@
-### <div align="center">I'm Miktat, a full-time full-stack developer 👨‍💻</div> 
+### <div align="center">I'm Miktat, a full-time full-stack developer  👨‍💻</div> 
 <br/>  
 
 ## My Skill Set
